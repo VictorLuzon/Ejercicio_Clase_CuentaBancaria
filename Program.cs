@@ -231,9 +231,9 @@ namespace Ejercicio_CuentaBancaria
         //Invalidamos el método ToString tal y como nos pide el ejercicio, y mostramos todos los datos de la cuenta.
         public override string ToString() => $"Datos de la cuenta:" 
                                             +$"\nNombre: {nombre}"
-                                            +$"\nApellido: {apellidos}" 
+                                            +$"\nApellidos: {apellidos}" 
                                             +$"\nDirección: {direccion}"
-                                            +$"\nRFC: {codigoSeguridad}" 
+                                            +$"\nCódigo de Seguridad: {codigoSeguridad}" 
                                             +$"\nSaldo: {saldo}";
 
     }
