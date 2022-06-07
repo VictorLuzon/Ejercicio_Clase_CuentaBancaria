@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\ref\Ejercicio_CuentaBancaria.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\bin\Debug\net5.0\Ejercicio_CuentaBancaria.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\ref\Ejercicio_CuentaBancaria.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_CuentaBancaria\obj\Debug\net5.0\Ejercicio_CuentaBancaria.genruntimeconfig.cache
