@@ -4,7 +4,7 @@ namespace Ejercicio_CuentaBancaria
 {
     /*Crear un programa que simule una cuenta bancaria, con las siguientes características:
 
-    Crear una clase "CuentaBancaria" con los campos y métodos correspondientes *ver diagrama UML adjunto en la imagen*
+    Crear una clase "CuentaBancaria" con los campos y métodos correspondientes *ver diagrama UML adjunto en el programa*
 
     El primer método que vemos en el diagrama es el constructor de la clase, 
     que recibirá los argumentos que ahí se indican e inicializará a los campos de la clase.
